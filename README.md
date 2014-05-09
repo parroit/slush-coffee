@@ -1,6 +1,7 @@
-# slush-coffee [![Build Status](https://secure.travis-ci.org/parroit/slush-coffee.png?branch=master)](https://travis-ci.org/parroit/slush-coffee) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-coffee.png)](http://badges.enytc.com/for/npm/slush-coffee) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/parroit/slush-coffee/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# slush-coffee
+[![Build Status](https://secure.travis-ci.org/parroit/slush-coffee.png?branch=master)](http://travis-ci.org/parroit/slush-coffee)  [![Npm module](https://badge.fury.io/js/slush-coffee.png)](https://npmjs.org/package/slush-coffee) [![Code Climate](https://codeclimate.com/github/parroit/slush-coffee.png)](https://codeclimate.com/github/parroit/slush-coffee)
 
-> A slush generator to create a coffeescript npm library
+A slush generator to create a coffeescript npm library
 
 
 ## Getting Started
